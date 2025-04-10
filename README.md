@@ -50,5 +50,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=default&font=default&quoteType=random&bgColor=black&fontColor=yellow&quotesUrl=https://gist.github.com/liptwo/591ea64f30427be90207df6e76cb76fa#file-gistfile1-json" alt="my-personal-project"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=default&font=default&quoteType=random&bgColor=black&fontColor=yellow&quotesUrl=https://gist.githubusercontent.com/liptwo/591ea64f30427be90207df6e76cb76fa/raw/be9dbe92cacc258129a1a5941fac3900dc9cee9c/gistfile1.json" alt="my-personal-project"/>
 </p>
