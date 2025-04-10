@@ -50,4 +50,4 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=default&font=default&quoteType=random&bgColor=red&fontColor=yellow)
