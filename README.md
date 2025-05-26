@@ -1,4 +1,3 @@
-<!-- Trungquandev -->
 <a href="#" target="_blank">
   <img src="svg/liptwo.svg" width="1200" alt="official" />
 </a>
@@ -52,3 +51,5 @@
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=default&font=default&quoteType=random&bgColor=black&fontColor=yellow&quotesUrl=https://gist.githubusercontent.com/liptwo/591ea64f30427be90207df6e76cb76fa/raw/be9dbe92cacc258129a1a5941fac3900dc9cee9c/gistfile1.json" alt="my-personal-project"/>
 </p>
+<img align="center" src='https://github.com/user-attachments/assets/7d1880f5-960f-4322-8900-881c44fa5474') width="30%" style="display:inline;>
+
